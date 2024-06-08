@@ -21,6 +21,8 @@ dependencies:
     path: packages/todos_api
   todos_repository:
     path: packages/todos_repository
+  shared_preferences: ^2.0.8
+  intl_utils: ^2.0.0
 
 dev_dependencies:
   bloc_test: ^9.1.0
