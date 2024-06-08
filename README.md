@@ -1,16 +1,14 @@
 # todo_bloc_example
 
-A new Flutter project.
+This todo app uses Flutter and the state management library [Bloc](https://bloclibrary.dev/).
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To get started with this project, follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
+Clone the repository to your local machine
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+``` bash
+flutter pub get
+flutter run
+```
